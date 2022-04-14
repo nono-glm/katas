@@ -1,0 +1,15 @@
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\bin\Debug\net6.0\Employes.exe
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\bin\Debug\net6.0\Employes.deps.json
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\bin\Debug\net6.0\Employes.runtimeconfig.json
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\bin\Debug\net6.0\Employes.dll
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\bin\Debug\net6.0\Employes.pdb
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\obj\Debug\net6.0\Employes.csproj.AssemblyReference.cache
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\obj\Debug\net6.0\Employes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\obj\Debug\net6.0\Employes.AssemblyInfoInputs.cache
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\obj\Debug\net6.0\Employes.AssemblyInfo.cs
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\obj\Debug\net6.0\Employes.csproj.CoreCompileInputs.cache
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\obj\Debug\net6.0\Employes.dll
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\obj\Debug\net6.0\refint\Employes.dll
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\obj\Debug\net6.0\Employes.pdb
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\obj\Debug\net6.0\Employes.genruntimeconfig.cache
+C:\Users\nolwenn.guillerm\source\repos\Employes\Employes\obj\Debug\net6.0\ref\Employes.dll
